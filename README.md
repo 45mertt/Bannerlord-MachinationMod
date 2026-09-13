@@ -1,6 +1,6 @@
 # Bannerlord: Machination Mod
 
-An extensive, C#-based simulation and gameplay mechanics overhaul for **Mount & Blade II: Bannerlord**. Built with over **50,000+ lines of optimized C# code**, this mod introduces deep socio-economic, political, demographic, and innovative 3D traversal systems to Calradia.
+An extensive, C#-based simulation and gameplay mechanics overhaul for **Mount & Blade II: Bannerlord**. Built with over **38,000+ lines of optimized C# code**, this mod introduces deep socio-economic, political, demographic, and innovative 3D traversal systems to Calradia.
 
 ---
 
